@@ -97,7 +97,7 @@ env: env
 - check_path.c - functions for checking the path of an executable
 - error_handler.c - functions for dealing with errors
 - free.c - functions for freeing allocated memory
-- holberton.h - header file
+- main.h - header file
 
 ### Credits
 
